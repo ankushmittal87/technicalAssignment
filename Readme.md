@@ -6,7 +6,7 @@ iOS App for Most Pooular news
 
 ## Steps for First Start
 
-Run 'pod install' in the main folder to set up pod dependencies.
+Run 'pod install' in the main folder to set up pod dependencies. For ease I have commited my pod library.
 If Cocoapods is not installed on your system please follow [cocoapods](https://cocoapods.org/) to install dependency manager.
 
 ## Architecture
